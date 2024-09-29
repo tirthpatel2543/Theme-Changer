@@ -1,0 +1,38 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.container{
+    display:flex;
+    justify-content: center;
+}
+
+.box{
+    height:100px;
+    width:100px;
+    border:2px solid black;
+    margin:5px;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#black{
+    background-color: black;
+}
+
+#red{
+    background-color: red;
+}
+
+#white{
+    background-color: white;
+}
+
+.sechead {
+    display:flex;
+    justify-content: center;
+}
